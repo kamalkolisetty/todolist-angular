@@ -199,11 +199,9 @@ To deploy the application, follow these steps:
 You can view the deployed version here:  
 [https://kamalkolisetty.github.io/todolist-angular/](https://kamalkolisetty.github.io/todolist-angular/)
 
----
+ 
 
-Let me know if you'd like further adjustments!
-
-## THE Hustle and RESULT
+## THE Hustle and the RESULT
 
 
 ![](1.png)
